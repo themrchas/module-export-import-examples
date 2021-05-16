@@ -1,0 +1,1 @@
+var globalModuleVar: string = "I am a global variable not explicitly exported or imported";

@@ -1,0 +1,1 @@
+export var varModule2: string = "Module 2 variable";
